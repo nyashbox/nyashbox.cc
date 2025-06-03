@@ -6,3 +6,7 @@ theme = 'plague'
 [params]
 siteHeaderText = "nyashbox.cc"
 colors = "default"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
