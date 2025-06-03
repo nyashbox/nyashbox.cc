@@ -1,0 +1,8 @@
+baseURL = 'http://nyashbox.cc/'
+languageCode = 'en-us'
+title = 'nyashbox.cc'
+theme = 'plague'
+
+[params]
+siteHeaderText = "nyashbox.cc"
+colors = "default"
